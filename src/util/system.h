@@ -18,6 +18,7 @@
 #include <compat.h>
 #include <compat/assumptions.h>
 #include <fs.h>
+#include <mutex>
 #include <logging.h>
 #include <sync.h>
 #include <tinyformat.h>

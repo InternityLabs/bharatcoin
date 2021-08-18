@@ -13,6 +13,7 @@
 #include <fs.h>
 #include <interfaces/chain.h>
 #include <rpc/server.h>
+#include <mutex>
 #include <init.h>
 #include <noui.h>
 #include <shutdown.h>

@@ -8,6 +8,7 @@
 
 #include <memory>
 #include <string>
+#include <mutex>
 #include <util/system.h>
 
 namespace interfaces {
